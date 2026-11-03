@@ -162,29 +162,7 @@ vagrant destroy
 
 The original design uses Vagrant and VirtualBox to provision an on-premises-style environment.
 
-Due to local hardware limitations, the next implementation phase will explore deploying the same architecture on **Amazon Web Services (AWS)** using Terraform.
 
-The AWS implementation will focus on:
-
-- Infrastructure as Code with Terraform.
-- AWS VPC and subnet design.
-- EC2 provisioning.
-- Security Groups and network isolation.
-- Linux server configuration.
-- Application deployment and integration.
-
-## Learning Outcomes
-
-This project is intended to demonstrate practical knowledge of:
-
-- Multi-tier architecture.
-- Linux administration.
-- Virtualization and resource allocation.
-- Infrastructure provisioning.
-- Network configuration.
-- Web and application server integration.
-- Database and messaging infrastructure.
-- Cloud infrastructure concepts.
 
 ---
 
