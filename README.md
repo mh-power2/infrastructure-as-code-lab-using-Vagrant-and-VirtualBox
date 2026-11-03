@@ -166,6 +166,6 @@ The original design uses Vagrant and VirtualBox to provision an on-premises-styl
 
 ---
 
-**Author:** Mohamed Hassan
+**Author:** MH Power2
 
 **Project:** Multi-Tier Java Web Application Infrastructure Lab
